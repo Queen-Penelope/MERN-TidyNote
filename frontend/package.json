@@ -19,6 +19,7 @@
     "react-router": "^7.7.1",
     "react-router-dom": "^7.7.1",
     "tailwindcss": "^4.1.11",
+    "tidynote": "file:..",
     "zustand": "^5.0.6"
   },
   "devDependencies": {
